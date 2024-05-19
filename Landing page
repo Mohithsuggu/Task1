@@ -1,0 +1,239 @@
+
+<!DOCTYPE <html>
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<link rel="stylesheet" href="styles.css">
+<style>
+  1
+
+*{
+margin: 0px;
+padding: 0px;
+border: 0px;
+}
+img{
+width: 100vw;
+height: 100vω;
+}
+h1{
+margin: 0%;
+color:crimson;
+padding: 15px;
+text-align: center;
+border: 0px;
+background-color: rgb(235, 233, 230);
+}
+body{
+width: 100vw;
+background-color: skyblue;
+ul{
+width: 100ww;
+}
+ul li{
+float: left;
+padding-right: 10px;
+text-transform: initial;
+text-decoration: none;
+width: 100px;
+color: rgb(233, 232, 226);
+}
+a:hover{
+background-color: rgb(226, 241, 17);
+}
+div{
+float: left;
+}
+ul li a{
+text-align:center;
+text-decoration: none;
+border: 0px;
+}
+.hello{
+width: 100vw;
+padding: 20px;
+text-align: center;
+background-color: #7529bd;
+.food-item{
+text-align: center;
+margin: bottom 50px;
+padding: 50x;
+}
+ul{
+border-color: azure;
+}
+marquee{
+background-repeat: repeat;
+color: rgb(238, 13, 13);
+}
+</style>
+</head>
+<body>
+<h1 style="font-family: sans-serif;"> Foodie</h1>
+<div class="container">
+<ul type="none">
+<li><a href="">Home</a></li>
+<li><a href="">Services</a></li>
+<li><a href="">Partners</a></li>
+<li><a href="">Contact-Us</a></li>
+<li><a href="">login</a></li>
+<li><a href="">Register</a></li>
+<li><a href="">About</a></li>
+</ul>
+</div>
+< marquee><b>Experience the Flavours of India with our Authentic Biryanii</b></marquee>
+
+<section class="menu">
+
+<div class="food-item">
+
+<img src="C:\Users\suggu.kiran\Downloads\1 biryani.jpg">
+
+</div>
+
+<div class="food-item">
+
+<img src="C:\Users\suggu.kiran\Downloads\pizza.jpg">
+</div>
+
+<div class="food-item">
+
+<img src="C:\Users\suggu.kiran\Downloads\burger.jpg">
+</div>
+
+
+</section>
+
+<footer class="hello">
+
+Opening a folder will close all currently open editors. To keep them open, add a folder instead.
+
+<h2> Contact-Us</h2>
+
+<P>for enquires and orders reach out to us</P>
+
+<p> all rights reserved</p>
+
+</footer>
+
+</body>
+</html>
+<!DOCTYPE <html>
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<link rel="stylesheet" href="styles.css">
+<style>
+  1
+
+*{
+margin: 0px;
+padding: 0px;
+border: 0px;
+}
+img{
+width: 100vw;
+height: 100vω;
+}
+h1{
+margin: 0%;
+color:crimson;
+padding: 15px;
+text-align: center;
+border: 0px;
+background-color: rgb(235, 233, 230);
+}
+body{
+width: 100vw;
+background-color: skyblue;
+ul{
+width: 100ww;
+}
+ul li{
+float: left;
+padding-right: 10px;
+text-transform: initial;
+text-decoration: none;
+width: 100px;
+color: rgb(233, 232, 226);
+}
+a:hover{
+background-color: rgb(226, 241, 17);
+}
+div{
+float: left;
+}
+ul li a{
+text-align:center;
+text-decoration: none;
+border: 0px;
+}
+.hello{
+width: 100vw;
+padding: 20px;
+text-align: center;
+background-color: #7529bd;
+.food-item{
+text-align: center;
+margin: bottom 50px;
+padding: 50x;
+}
+ul{
+border-color: azure;
+}
+marquee{
+background-repeat: repeat;
+color: rgb(238, 13, 13);
+}
+</style>
+</head>
+<body>
+<h1 style="font-family: sans-serif;"> Foodie</h1>
+<div class="container">
+<ul type="none">
+<li><a href="">Home</a></li>
+<li><a href="">Services</a></li>
+<li><a href="">Partners</a></li>
+<li><a href="">Contact-Us</a></li>
+<li><a href="">login</a></li>
+<li><a href="">Register</a></li>
+<li><a href="">About</a></li>
+</ul>
+</div>
+< marquee><b>Experience the Flavours of India with our Authentic Biryanii</b></marquee>
+
+<section class="menu">
+
+<div class="food-item">
+
+<img src="C:\Users\suggu.kiran\Downloads\1 biryani.jpg">
+
+</div>
+
+<div class="food-item">
+
+<img src="C:\Users\suggu.kiran\Downloads\pizza.jpg">
+</div>
+
+<div class="food-item">
+
+<img src="C:\Users\suggu.kiran\Downloads\burger.jpg">
+</div>
+
+
+</section>
+
+<footer class="hello">
+
+Opening a folder will close all currently open editors. To keep them open, add a folder instead.
+
+<h2> Contact-Us</h2>
+
+<P>for enquires and orders reach out to us</P>
+
+<p> all rights reserved</p>
+
+</footer>
+
+</body>
+</html>
